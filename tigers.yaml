@@ -1,6 +1,10 @@
 	team: Tigers
 
-	manager: Donald 
+<<<<<<< HEAD
+	manager: Kenneth 
+=======
+	manager: Doborah 
+>>>>>>> conflict-1
 
 	coach: Grace
 
